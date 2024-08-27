@@ -1,9 +1,16 @@
-// Time Complexity : O(2N)
-// Space Complexity : O(N)
-// Did this code successfully run on Leetcode : Yes
-// Your code here along with comments explaining your approach : 
-//      Using monotonic stack, comparing the elements of the array with top most
-//      element of the stack and updating the result array.
+/*
+ *                  Daily temperatures
+ *
+ * Leetcode : https://leetcode.com/problems/daily-temperatures/description/
+ * 
+ * Time complexity : O(2N)
+ * Space complexity : O(N)
+ * Did this code successfully run on Leetcode : Yes
+ * Any problem you faced while coding this : -
+ * Your code here along with comments explaining your approach in three sentences only
+ *          - Using monotonic stack, comparing the elements of the array with top most
+ *            element of the stack and updating the result array.
+ */
 
 #include<iostream>
 #include<vector>
